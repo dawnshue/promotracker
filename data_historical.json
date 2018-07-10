@@ -39,6 +39,12 @@
     "raw":"Valid now through August 11, 2018 at 11:59pm ET. In-store coupon or online promo code may only be used once and cannot be combined with any other coupons or storewide offers.  Not Valid on Jeans. Not valid on Featured Brands, MLB merchandise, Insta Sale items, clearance or previous purchases. Other restrictions may apply. See store or express.com for details. Minimum purchase requirement amount is net of any discounts. Sales tax, gift boxes, and shipping and handling are not included in the total minimum purchase calculation. Taxes payable after coupon value is deducted. Coupon must be presented and surrendered at the time of purchase. If you return a portion of your purchase a portion of the discount will be lost. Cannot be redeemed for cash or used to purchase Express Gift Cards. Reproductions of coupon will not be accepted. Valid at Express and Express Men stores only in the U.S. and online at express.com. Not valid at Express Factory Outlet stores.",
   },
   {
+    "company":"H&M",
+    "date":20180710,
+    "promotions":{"0":0.1},
+    "raw":"*10% OFF + FREE SHIPPING: Offer valid through 7/10/2018 on all orders. To redeem in-store, print or show this email on your smartphone. To redeem online, use code 3137 when placing your order to redeem the discount and free shipping (5-7 business days). Cannot be combined with any other offer, discount, sale items, already reduced items, guest designer collaborations or select special collections. Cannot be used for Gift Card purchase or shipping. No adjustments on prior purchases. May not be redeemed for cash or cash equivalent and is not transferable. Valid in the US only.",
+  },
+  {
     "company":"",
     "date":2018,
     "ed":2018,
