@@ -1,9 +1,41 @@
 [
   {
-    "brand":"DSW",
-    "sd":20180706,
+    "company":"DSW",
+    "date":20180706,
     "ed":20180710,
-    "promotions":{0:0.2},
+    "promotions":{"0":0.2},
     "raw":"About the 20% off: Valid July 6–10, 2018 in US stores and at dsw.com for 20% off your entire order. Use offer code YAYDAYS to redeem online. Limit 1 per customer. Not valid toward gift cards, past purchases, shipping, or tax. No cash back. Cannot be replaced if lost, stolen, or damaged. Value can be reused on same-day exchange only. Exclusions apply. See store or dsw.com for details. Additional details: May be combined with up to two Rewards and one offer. Excludes Birkenstock, Brooks, Keen, Rainbow, Sorel, and UGG products, plus select Nike, Converse and Under Armour styles. Not valid at any DSW Canada store or at www.dswcanada.ca. Associates of DSW and of other companies owned by DSW, Inc., are not eligible for offer. For help, contact shoephoria! Center: 1.866.DSW.SHOES or customerservice@dsw.com.",
+  },
+  {
+    "company":"ASOS",
+    "date":20180710,
+    "promotions":{"-1":0.7},
+    "raw":"*Up to 70% off is for a limited time only, on selected lines only. Excludes certain brands, delivery charges, gift vouchers and subscription to ASOS Premier Delivery. Prices marked down on site. While stocks last.",
+  },
+  {
+    "company":"Zazzle",
+    "date":20180710,
+    "promotions":{"0":0.3},
+    "raw":"A discount of 30% of the product net sale price will be deducted when one or more qualifying products are purchased. Either click through a promo link or enter the promo code TAKE30OFZAZZ (i) to reflect the discounted price on each product page and/or (ii) during checkout to receive the offer. All discounts are valid through 7/10/2018 11:59:59 PM PDT. For most products, the net sale price is the price of the product (excluding shipping and taxes). This offer only applies to qualifying products marked "Sold by Zazzle." This offer excludes embroidery digitization, screen-printed apparel, fabric, gift cards, Zazzle Heart products, products made by Apliiq, Beltcraft, Big Shot Bikes, Bound Journals, Distinctive Suspenders (Sartorous LLC), Foxy Originals, Good Wood NYC, ScarfMaker, Way Basics, White Faux Taxidermy, and Yellowleaf Hammocks. This offer excludes products from the stores listed here: https://www.zazzle.com/store+exclusions. This offer may not be combined with any other Zazzle promotional or volume discount offers and may not be applied to past purchases. If a volume discount applies to your order, you will receive either the discount set forth in this offer or the standard volume discount, whichever is greater. Offer valid on Zazzle.com only. Zazzle reserves the right to make changes to or terminate this offer at any time.",
+  },
+  {
+    "company":"Groupon",
+    "date":20180710,
+    "promotions":{"20":5,"40":10,"60":15,"100":30},
+    "raw":"Valid on one local or one getaway flashdeal. Max 3 per customer",
+  },
+  {
+    "company":"Forever 21",
+    "date":20180708,
+    "ed":20180713,
+    "promotions":{"50":0.1,"100":0.15,"150":0.2},
+    "raw":"*Receive either: 10% off your order of $50, or receive 15% off your order of $100 or more, or receive 20% off your order of regular price purchase of $150 at forever21.com from July 8, 2018 at 12:00am through July 13, 2018 at 11:59pm. Offer valid on regular price items only. Offer not valid in-store. To redeem 10% off offer online, enter code SAVE10 at checkout. To redeem 15% off offer online, enter code SAVE15 at checkout. To redeem 20% off offer online, enter code SAVE20 at checkout. Minimum purchase amount must be met in a single transaction before taxes. Offer cannot be combined with any other promotion, offer, or discount. Not valid on the purchase of gift cards or e-gift cards, non-Forever 21 branded items, Red Deals, or shipping and handling charges. No adjustments on previous purchases. Not redeemable for cash or cash equivalent. Nothing stated herein will affect customer’s legal rights. Forever 21 reserves the right to modify or cancel this promotion at any time without notice.",
+  },
+  {
+    "company":"",
+    "date":2018,
+    "ed":2018,
+    "promotions":{},
+    "raw":"",
   }
 ]
