@@ -32,10 +32,17 @@
     "raw":"*Receive either: 10% off your order of $50, or receive 15% off your order of $100 or more, or receive 20% off your order of regular price purchase of $150 at forever21.com from July 8, 2018 at 12:00am through July 13, 2018 at 11:59pm. Offer valid on regular price items only. Offer not valid in-store. To redeem 10% off offer online, enter code SAVE10 at checkout. To redeem 15% off offer online, enter code SAVE15 at checkout. To redeem 20% off offer online, enter code SAVE20 at checkout. Minimum purchase amount must be met in a single transaction before taxes. Offer cannot be combined with any other promotion, offer, or discount. Not valid on the purchase of gift cards or e-gift cards, non-Forever 21 branded items, Red Deals, or shipping and handling charges. No adjustments on previous purchases. Not redeemable for cash or cash equivalent. Nothing stated herein will affect customer’s legal rights. Forever 21 reserves the right to modify or cancel this promotion at any time without notice.",
   },
   {
+    "company":"Express",
+    "date":20180709,
+    "ed":20180811,
+    "promotions":{"30":15,"100":30,"120":40,"200":75},
+    "raw":"Valid now through August 11, 2018 at 11:59pm ET. In-store coupon or online promo code may only be used once and cannot be combined with any other coupons or storewide offers.  Not Valid on Jeans. Not valid on Featured Brands, MLB merchandise, Insta Sale items, clearance or previous purchases. Other restrictions may apply. See store or express.com for details. Minimum purchase requirement amount is net of any discounts. Sales tax, gift boxes, and shipping and handling are not included in the total minimum purchase calculation. Taxes payable after coupon value is deducted. Coupon must be presented and surrendered at the time of purchase. If you return a portion of your purchase a portion of the discount will be lost. Cannot be redeemed for cash or used to purchase Express Gift Cards. Reproductions of coupon will not be accepted. Valid at Express and Express Men stores only in the U.S. and online at express.com. Not valid at Express Factory Outlet stores.",
+  },
+  {
     "company":"",
     "date":2018,
     "ed":2018,
     "promotions":{},
     "raw":"",
-  }
+  },
 ]
