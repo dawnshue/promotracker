@@ -52,6 +52,18 @@
     "raw":"Details: 25% off art prints, framed prints, canvas prints, metal prints, tapestries, posters, wood wall art, wall murals and wall hangings.",
   },
   {
+    "company":"Zazzle",
+    "date":20180711,
+    "promotions":{"cards":0.5},
+    "raw":"A discount of 50% of the product net sale price will be deducted when one or more qualifying greeting cards, foil cards, invitations, photo cards and/or postcards are purchased. However, 50% discount excludes magnetic invitations, folded cards, and cards made by VictoryStore. Either click through a promo link or enter the promo code JULYSALEZAZZ (i) to reflect the discounted price on each product page and/or (ii) during checkout to receive the offer. All discounts are valid through 7/13/2018 11:59:59 PM PDT. For most products, the net sale price is the price of the product (excluding shipping and taxes). This offer only applies to qualifying products marked "Sold by Zazzle." This offer excludes embroidery digitization, screen-printed apparel, fabric, gift cards, Zazzle Heart products, products made by Apliiq, Beltcraft, Big Shot Bikes, Bound Journals, Distinctive Suspenders (Sartorous LLC), Foxy Originals, Good Wood NYC, ScarfMaker, Way Basics, White Faux Taxidermy and Yellowleaf Hammocks. This offer excludes products from the stores listed here: https://www.zazzle.com/store+exclusions. This offer may not be combined with any other Zazzle promotional or volume discount offers and may not be applied to past purchases. If a volume discount applies to your order, you will receive either the discount set forth in this offer or the standard volume discount, whichever is greater. Offer valid on Zazzle.com only. Zazzle reserves the right to make changes to or terminate this offer at any time.",
+  },
+  {
+    "company":"Express",
+    "date":20180710,
+    "promotions":{"dresses":0.3},
+    "raw":"Online only.",
+  },
+  {
     "company":"",
     "date":2018,
     "ed":2018,
