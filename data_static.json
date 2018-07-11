@@ -22,5 +22,17 @@
     "amount":5,
     "raw":"BIRTHDAY GIFT",
     "recurring":true,
-  }
+  },
+  {
+    "brand":"Express"
+    "amount":0.15,
+    "raw":"Download the App & get 15% off**",
+    "recurring":false,
+  },
+  {
+    "brand":""
+    "amount":0,
+    "raw":"",
+    "recurring":false,
+  },
 ]
