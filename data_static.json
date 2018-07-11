@@ -24,13 +24,13 @@
     "recurring":true,
   },
   {
-    "brand":"Express"
+    "brand":"Express",
     "amount":0.15,
     "raw":"Download the App & get 15% off**",
     "recurring":false,
   },
   {
-    "brand":""
+    "brand":"",
     "amount":0,
     "raw":"",
     "recurring":false,
