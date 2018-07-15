@@ -30,6 +30,12 @@
     "recurring":false,
   },
   {
+    "brand":"Makeup Forever",
+    "amount":0.15,
+    "raw":"Sign up and receive 15% off your first order.",
+    "recurring":false,
+  },
+  {
     "brand":"",
     "amount":0,
     "raw":"",
