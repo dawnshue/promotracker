@@ -36,6 +36,12 @@
     "recurring":false,
   },
   {
+    "brand":"Society6",
+    "amount":0.1,
+    "raw":"Offer expires at midnight PT 30 days after this email was sent. Offer cannot be combined with other promotions. Society6.com",
+    "recurring":false,
+  },
+  {
     "brand":"",
     "amount":0,
     "raw":"",
