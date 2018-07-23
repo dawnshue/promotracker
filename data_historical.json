@@ -111,14 +111,15 @@
   {
     "company":"Express",
     "date":20180716,
+    "ed":20180718,
     "promotions":{"online":0.4,"sale":0.5},
-    "raw":"Valid July 16, 2018 at 12:00 AM ET online at express.com and the EXPRESS Mobile App. Offer cannot be combined with any other promotions or offers. Not valid on Featured Brands, MLB merchandise, clearance items or previous purchases. Other restrictions may apply. See express.com for details. Promotional price as marked online. Taxes payable after discount is deducted. Cannot be used to purchase Express Gift Cards. Valid only online at express.com and the EXPRESS Mobile App. Not valid at Express, Express Men and Express Factory Outlet stores",
+    "raw":"40% OFF EVERYTHING: Valid July 16, 2018 at 12:00 AM ET online at express.com and the EXPRESS Mobile App. Offer cannot be combined with any other promotions or offers. Not valid on Featured Brands, MLB merchandise, clearance items or previous purchases. Other restrictions may apply. See express.com for details. Promotional price as marked online. Taxes payable after discount is deducted. Cannot be used to purchase Express Gift Cards. Valid only online at express.com and the EXPRESS Mobile App. Not valid at Express, Express Men and Express Factory Outlet stores",
   },
   {
     "company":"H&M",
     "date":20180717,
     "promotions":{"0":0.2},
-    "raw":"Prime day!",
+    "raw":"ONLINE & IN-STORE - IT'S PRIME TIME 20% OFF: To redeem in-store, print or show this offer on your Smartphone. Offer valid through 7/17/2018 or while supplies last. Cannot be combined with any other offer, discount, guest designer collaborations or select special collections. Cannot be used for Gift Card purchase or shipping. No adjustments on prior purchases. May not be redeemed for cash or cash equivalent and is not transferable. Valid in the US only.",
   },
   {
     "company":"Express",
@@ -151,6 +152,13 @@
     "date":20180723,
     "promotions":{"cards":0.6},
     "raw":"For the products listed on https://www.zazzle.com/coupons, a discount of the listed percentage of the product net sale price will be deducted when one or more qualifying products are purchased: However, (i) 60% discount excludes magnetic invitations, stockings made by GiftsForYouNow, rack cards, cards made by VictoryStore, and wood posters, (ii) 50% discount excludes baby blankets, throw blankets and ornaments made by PhotoUsa (iii) 40% discount excludes magnetic business cards, and (iv) 30% discount excludes select sizes of wrapping paper. Either click through a promo link or enter the promo code ZAZZJULYXMAS (i) to reflect the discounted price on each product page and/or (ii) during checkout to receive the offer. All discounts are valid through 7/26/2018 11:59:59 PM PDT. For most products, the net sale price is the price of the product (excluding shipping and taxes). This offer only applies to qualifying products marked "Sold by Zazzle." This offer excludes embroidery digitization, screen-printed apparel, fabric, gift cards, Zazzle Heart products, products made by Apliiq, Beltcraft, Big Shot Bikes, Bound Journals, Distinctive Suspenders (Sartorous LLC), Foxy Originals, Good Wood NYC, ScarfMaker, Way Basics, White Faux Taxidermy and Yellowleaf Hammocks. This offer excludes products from the stores listed here: https://www.zazzle.com/store+exclusions. This offer may not be combined with any other Zazzle promotional or volume discount offers and may not be applied to past purchases. If a volume discount applies to your order, you will receive either the discount set forth in this offer or the standard volume discount, whichever is greater. Offer valid on Zazzle.com only. Zazzle reserves the right to make changes to or terminate this offer at any time",
+  },
+  {
+    "company":"Society6",
+    "date":20180722,
+    "ed":20180723,
+    "promotions":{"0":0.25},
+    "raw":"7/22-7/23: 25% Off Everything with Code JULYART",
   },
   {
     "company":"",
