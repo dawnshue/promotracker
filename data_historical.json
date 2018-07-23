@@ -118,7 +118,20 @@
     "company":"H&M",
     "date":20180717,
     "promotions":{"0":0.2},
-    "raw":"",
+    "raw":"Prime day!",
+  },
+  {
+    "company":"Express",
+    "date":20180722,
+    "promotions":{"sale":0.5},
+    "raw":"AFTER PARTY SALE: Valid July 22, 2018 from 6:00 pm to 11:59 pm ET on clearance items. Not valid on previous purchases. Taxes payable after discount is deducted. If you return a portion of your purchase, a portion of the discount will be lost. Cannot be used to purchase Express gift cards. Valid online only at express.com. Not valid at Express, Express Men or Express Factory Outlet stores. Associates are not eligible.",
+  },
+  {
+    "company":"DSW",
+    "date":20180719,
+    "ed":20180725,
+    "promotions":{"49":10,"99":20,"199":60},
+    "raw":"About the $10, $20, or $60 off: Valid July 19-25, 2018 in US stores and at dsw.com for $10 off a purchase of $49, $20 off a purchase of $99, or $60 off a purchase of $199. Use offer code SUMMERSOLE to redeem online. Limit 1 per customer. One-time use. Not valid toward gift cards, past purchases, shipping, or tax. No cash back. Cannot be replaced if lost, stolen, or damaged. Value can be reused on same-day exchange only. Exclusions apply. See store or dsw.com for details. May be combined with up to two Rewards and one offer. Excludes Birkenstock, Brooks, Keen, Rainbow, Sorel, and UGG products, plus select Nike, Converse and Under Armour styles. Excludes Luggage and Fragrance items. Not valid at any DSW Canada store or at www.dswcanada.ca. Associates of DSW and of other companies owned by DSW, Inc., are not eligible for offer. For help, contact shoephoria! Center: 1.866.DSW.SHOES or customerservice@dsw.com.",
   },
   {
     "company":"",
