@@ -161,6 +161,20 @@
     "raw":"7/22-7/23: 25% Off Everything with Code JULYART",
   },
   {
+    "company":"DSW",
+    "date":20180727,
+    "ed":20180729,
+    "promotions":{"0":0.2},
+    "raw":"About the 5X points: Get 5X points on every purchase made in US stores and at dsw.com July 27–29, 2018. Use offer code 5XVIP to redeem online. Show barcode in store. Cannot be combined with other bonus points events. Allow 2–3 weeks for points to post. Limit 1 per customer. Not valid toward gift cards, past purchases, shipping, or tax. No cash back. Cannot be replaced if lost, stolen, or damaged. Exclusions apply. See store or dsw.com for details.",
+  },
+  {
+    "company":"Forever21",
+    "date":20180726,
+    "ed":20180727,
+    "promotions":{"0":0.15},
+    "raw":"*Receive 15% off your purchase of regular price items and Free Standard Shipping with minimum regular price purchase of $15 at forever21.com only from July 26, 2018 at 12:00am through July 27, 2018 at 11:59pm. Eligible customers must enter THANKSIG15 checkout with regular price items and select standard shipping with more than $15 of regular price items in your cart during checkout in order to receive free shipping. Offer cannot be combined with any other promotion, offer, or discount. Not valid on the purchase of gift cards or e-gift cards, non-Forever 21 branded items, Core Basics, Red Deals, taxes, shipping and handling charges, discounted, promotional, or sale items. No adjustments on previous purchases. Not redeemable for cash or cash equivalent. Nothing stated herein will affect customer’s legal rights. Forever 21 reserves the right to modify or cancel this promotion at any time without notice.",
+  },
+  {
     "company":"",
     "date":2018,
     "ed":2018,
