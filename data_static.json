@@ -42,6 +42,18 @@
     "recurring":false,
   },
   {
+    "brand":"Makeup Forever",
+    "amount":0.2,
+    "raw":"20% off your entire purchase. Code: BDAY07. * Offer valid for one month from your birthday on the website www.makeupforever.com/us/en-us and in all MAKE UP FOR EVER stores approved in United-States (excluding PRO stores). Offer valid once per person, not cumulative with other current offers and/ or promotions.",
+    "recurring":true,
+  },
+  {
+    "brand":"Kerastase",
+    "amount":0.2,
+    "raw":"Happy Birthday from Kerastase! Enjoy 20% off with complimentary samples plus free shipping. Use Promo Code: 955Q9K3V4U4N. Offer expires 30 day from receipt. Quantities are limited and all offers, deals and promotions are subject to availability while supplies last. Only one sample offer may be applied to each order; offers may not be combined. To ensure best availability, there is a limit of one to a customer. Offer includes Gift Sets and Last Chance items. Offer available to residents of the contiguous United States only. All "Free Shipping" offers are for STANDARD SHIPPING only, unless otherwise specified. Offers cannot be applied to previously placed orders. We reserve the right to cancel any order due to unauthorized, altered or ineligible use of offer and to modify or cancel any promotion due to system error or unforeseen problems. We reserve the right to substitute any free item offered with an item of equal or greater value. Ongoing offers are subject to change without notice. Other restrictions may apply.",
+    "recurring":false,
+  },
+  {
     "brand":"",
     "amount":0,
     "raw":"",
