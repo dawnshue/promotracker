@@ -1,12 +1,22 @@
 {
-  "Makeup Forever": {
-    "0.25":[],
+  "AdoramaPix": {
+    "30% off sitewide":[[20181126]],
+    "80% off 4x8 Wood Prints":[[20181126]],
+    "40% off Softcover Books":[[20181126]],
   },
   "Express": {
-    "50% off everything":[[20181120,20181123]],
+    "50% off everything":[[20181120,20181126]],
   },
   "H&M": {
-    "30% off everything":[20181123],
+    "30% off everything":[[20181123]],
+  },
+  "Makeup Forever": {
+    "25% off everything":[],
+  },
+  "Redbubble": {
+    "50% off 10 Stickers":[[20181125]],
+    "30% off 10 Greeting Cards":[[20181125]],
+    "20% off Apparel":[[20181125]],
   },
   "Sephora": {
     "20% off everything":[],
