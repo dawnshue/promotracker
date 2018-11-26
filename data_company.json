@@ -1,14 +1,30 @@
 {
   "AdoramaPix": {
     "30% off sitewide":[[20181126]],
+    "35% off sitewide":[[20181122]],
     "80% off 4x8 Wood Prints":[[20181126]],
     "40% off Softcover Books":[[20181126]],
+    "40% off Calendars":[[20181122]],
+    "45% off 10x10 Photobooks":[[20181122]],
+  },
+  "DSW": {
+    "25% off everything":[[20181126]],
   },
   "Express": {
-    "50% off everything":[[20181120,20181126]],
+    "50% off everything":[[20181120,20181123],[20181125,20181126]],
+  },
+  "Forever 21": {
+    "30% off everything":[[20181126]],
+  },
+  "Go Buses": {
+    "25% off departures":[[20181123],[20181126]],
   },
   "H&M": {
     "30% off everything":[[20181123]],
+  },
+  "Kerastase": {
+    "20% off any order":[[20181126]],
+    "20% off $100":[[20181122,20181125]],
   },
   "Makeup Forever": {
     "25% off everything":[],
@@ -18,8 +34,15 @@
     "30% off 10 Greeting Cards":[[20181125]],
     "20% off Apparel":[[20181125]],
   },
+  "Satori Laser": {
+    "Up to 50% off":[[20181122]],
+  },
   "Sephora": {
     "20% off everything":[],
   },
-  
+  "Zazzle": {
+    "75% off Business Cards & Canvas Prints":[[20181126]],
+    "60% off Mugs, Magnets, Calendars":[[20181126]],
+    "50% off Post-its, Luggage Tags, Puzzles, Tote bags":[[20181126]],
+  }
 }
