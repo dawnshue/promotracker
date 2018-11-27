@@ -7,20 +7,25 @@
     "40% off Calendars":[[20181122]],
     "45% off 10x10 Photobooks":[[20181122]],
   },
+  "ASOS": {
+    "20% off everything":[[20181124,20181126]],
+  },
   "DSW": {
     "25% off everything":[[20181126]],
+    "20% off everything":[[20181122,20181125]],
   },
   "Express": {
     "50% off everything":[[20181120,20181123],[20181125,20181126]],
   },
   "Forever 21": {
-    "30% off everything":[[20181126]],
+    "Extra 50% off Sale":[[20181125]],
+    "30% off everything":[[20181123],[20181126]],
   },
   "Go Buses": {
     "25% off departures":[[20181123],[20181126]],
   },
   "H&M": {
-    "30% off everything":[[20181123]],
+    "30% off everything":[[20181123],[20181126]],
   },
   "Kerastase": {
     "20% off any order":[[20181126]],
@@ -28,9 +33,11 @@
   },
   "Makeup Forever": {
     "25% off everything":[],
+    "20% off $100":[[20181122,20181127]],
   },
   "Redbubble": {
     "50% off 10 Stickers":[[20181125]],
+    "30% off Sitewide":[[20181126]],
     "30% off 10 Greeting Cards":[[20181125]],
     "20% off Apparel":[[20181125]],
   },
@@ -42,7 +49,7 @@
   },
   "Zazzle": {
     "75% off Business Cards & Canvas Prints":[[20181126]],
-    "60% off Mugs, Magnets, Calendars":[[20181126]],
+    "60% off Mugs, Magnets, Calendars, Ornaments":[[20181125,20181126]],
     "50% off Post-its, Luggage Tags, Puzzles, Tote bags":[[20181126]],
   }
 }
